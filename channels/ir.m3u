@@ -143,6 +143,8 @@ http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 https://5acf9f9415a10.streamlock.net:443/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://www.mellitv.com/images/sitelogo.png" group-title="Entertainment",MTC
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist_w1877115045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://www.navahang.com/apple-touch-icon.png" group-title="Music",Navahang TV
+http://163.172.134.85/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/omidjavedan.jpg" group-title="",Omid Javedan
 http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/97ATQV7.png" group-title="Entertainment",OX Film
